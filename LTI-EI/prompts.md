@@ -1,3 +1,9 @@
+## Herramientas IA utilizadas
+
+- Claude: para generar User Stories, backlog, desglose técnico y estructura del documento.
+- ChatGPT: para refinar el contenido, simplificar las User Stories y mejorar la estructura final de la entrega.
+
+
 # Prompts utilizados
 
 ## Prompt 1 - Generación inicial
